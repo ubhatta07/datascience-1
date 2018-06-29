@@ -1,1 +1,4 @@
 Please write here notes everyday
+Okay cool. This is awesome.
+Methods of dropping any values:
+df.dropna(how='any').shape # This drops the rows that contains any (meaning one or some or all) missing (NaN) values.
